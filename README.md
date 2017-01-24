@@ -48,7 +48,7 @@ python MethylDot.py -o /your/path/test.txt \
 -p /data/macee77aggie/ \
 /your/path/sample1.cov,/your/path/sample2.cov/,your/path/sample3.cov,/your/path/sample4.cov,/your/path/sample5.cov
 ```
-As a result, the reults are one `test.txt` and one `methyl_dot.R`. You can find them in this repository. The R script was run and the generated dot plot (`test.png`) is also under the same directory. 
+As a result, the reults are one `test.txt` and one `methyl_dot.R`. You can find them in this repository. The R script was run and the generated dot plot (`dotplot_test.png`) is also under the same directory. 
 
 For any further questions, please contact:
 guosong.wang@tamu.edu or guosonwang@gmail.com
